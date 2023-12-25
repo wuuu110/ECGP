@@ -7,6 +7,7 @@ We would like to thank the following repositories, which are baselines of our co
 
 # Citation
 If you find our paper and code useful, please cite our paper:
+(https://github.com/sg-nm/cgp-cnn)
 
 ```
 @article{wu_neural_2023,
