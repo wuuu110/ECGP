@@ -2,7 +2,7 @@
 The PyTorch Implementation of "Neural Architecture Search for Text Classification with Limited Computing Resources Using Efficient Cartesian Genetic Programming".
 
 # Acknowledgments
-We would like to thank the following repositories, which are baselines of our code: (https://github.com/sg-nm/cgp-cnn)
+We would like to thank the following repository, which is baseline of our code: (https://github.com/sg-nm/cgp-cnn)
 
 
 
