@@ -1,5 +1,5 @@
 # Introduction
-The PyTorch Implementation of "Neural Architecture Search for Text Classification with Limited Computing Resources Using Efficient Cartesian Genetic Programming".
+The PyTorch Implementation of "[Neural Architecture Search for Text Classification with Limited Computing Resources Using Efficient Cartesian Genetic Programming](https://ieeexplore.ieee.org/document/10373942)".
 
 # Acknowledgments
 We would like to thank the following repository, which is baseline of our code: (https://github.com/sg-nm/cgp-cnn)
